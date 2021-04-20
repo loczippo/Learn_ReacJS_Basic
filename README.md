@@ -1,1 +1,1 @@
-# Learn_ReacJS_Basic
+Học lập trình ReactJS Basic bắt đầu từ ngày 20/04/2021
